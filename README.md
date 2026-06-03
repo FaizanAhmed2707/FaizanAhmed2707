@@ -1,187 +1,147 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Faizan Ahmed
+# Hi 👋 I'm Syed Faizan Ahmed
 
-### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Cloud Enthusiast
+### Java Backend Developer | Spring Boot | PostgreSQL | Cloud Technologies
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Cloud+%26+DevOps+Enthusiast;Always+Learning+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Microservices+%7C+Cloud+%7C+DevOps;Always+Learning+Always+Building"/>
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/faizan-ahmed2707)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:farhan05faizan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FaizanAhmed2707)
+<a href="mailto:farhan05faizan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/faizan-ahmed2707">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/FaizanAhmed2707">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 Information Technology Graduate (2025)
+Information Technology Graduate (2025) focused on backend development and enterprise application engineering.
 
-💻 Passionate Backend Developer specializing in Java, Spring Boot, REST APIs, and Database Engineering.
+I enjoy designing scalable backend systems, building REST APIs, working with databases, and learning modern cloud-native development practices.
 
-🔭 Currently building production-grade backend applications using:
+### Current Focus
 
-* Java
-* Spring Boot
-* Spring Security
+* Java & Spring Boot
+* Backend Architecture
+* REST APIs & Security
 * PostgreSQL
 * Docker
-* Cloud Technologies
-
-🌱 Currently Learning
-
-* Microservices Architecture
-* Distributed Systems
-* AWS Cloud Services
-* Advanced Spring Ecosystem
-
-🎯 Career Goal
-
-To become a high-impact Software Engineer focused on scalable backend systems, cloud-native applications, and enterprise software development.
+* AWS Cloud
+* Microservices
 
 ---
 
-# 💻 Tech Stack
+## 💼 Experience
 
-## Languages
+### Java Developer Trainee | HulkHire Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
-</p>
+**May 2026 – July 2026**
 
-## Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-* Spring Boot
-* Spring Security
-* REST APIs
-* JWT Authentication
-* WebSockets
-* Maven
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-## Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,linux" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-</p>
-
-## AI & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Pandas
-* NumPy
-* XGBoost
-* Streamlit
-* Google GenAI
+* Participated in a 100+ hour industry-focused Java Developer Trainee Program.
+* Worked on the architecture and development of a Payment Integration System (PIS) using Spring Boot and Microservices concepts.
+* Gained practical exposure to REST APIs, Layered Architecture, Agile Development, Git workflows, Docker, AWS concepts, testing practices, and enterprise development standards.
+* Collaborated through iterative development cycles while following industry-oriented software engineering practices.
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 Tech Stack
 
-## 💬 ChatEngine Pro
+### Languages
 
-Enterprise-grade Real-Time Communication Platform
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
-### Highlights
+### Backend
 
-✅ Real-time Messaging using STOMP WebSockets
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square\&logo=springsecurity\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=flat-square)
 
-✅ Google OAuth2 Authentication
+### Databases
 
-✅ WebRTC Video Calling
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-✅ Cloudinary Media Pipeline
+### Cloud & DevOps
 
-✅ PostgreSQL Persistence Layer
-
-✅ Presence Tracking Engine
-
-### Tech Stack
-
-`Java 21` • `Spring Boot` • `WebSockets` • `PostgreSQL` • `Azure`
-
----
-
-## 🔗 LinkShrinky
-
-Production-Ready URL Shortening and Analytics Platform
-
-### Highlights
-
-✅ JWT Authentication & Authorization
-
-✅ URL Shortening Engine
-
-✅ Analytics Dashboard
-
-✅ Dockerized Deployment
-
-✅ PostgreSQL Integration
-
-✅ Production Architecture
-
-### Tech Stack
-
-`Java` • `Spring Boot` • `PostgreSQL` • `Docker`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 
 ---
 
-## 🚗 Used Car Price Estimator
+## 🌟 Featured Projects
 
-Machine Learning Powered Vehicle Price Prediction Platform
+### 💬 ChatEngine Pro
 
-### Highlights
+Enterprise-grade real-time communication platform built using Spring Boot, WebSockets, OAuth2, PostgreSQL, and WebRTC.
 
-✅ XGBoost Prediction Model
+**Highlights**
 
-✅ Streamlit Web Application
-
-✅ Google Generative AI Integration
-
-✅ Data Processing Pipeline
-
-✅ Interactive User Interface
-
-### Tech Stack
-
-`Python` • `XGBoost` • `Streamlit` • `Google GenAI`
+* Real-time messaging using STOMP WebSockets
+* Google OAuth2 authentication
+* Peer-to-peer video calling with WebRTC
+* Cloudinary media pipeline
+* Presence engine and chat persistence
+* Cursor-based pagination and optimized data retrieval
 
 ---
 
-# 🏆 Certifications
+### 🔗 LinkShrinky
 
-### ☁️ Oracle Cloud Infrastructure Foundations Associate
+Full-stack URL Shortening and Analytics Platform.
 
-### ☕ HackerRank Java (Basic)
+**Highlights**
 
-### 🗄️ HackerRank SQL (Basic)
-
-### 💻 Wipro TalentNext Full Stack Development Program
+* JWT Authentication & Authorization
+* URL shortening engine
+* Analytics dashboard
+* PostgreSQL integration
+* Dockerized deployment
+* Production-ready architecture
 
 ---
 
-# 📊 GitHub Statistics
+### 🚗 Used Car Price Estimator
+
+Machine Learning-powered vehicle valuation platform.
+
+**Highlights**
+
+* XGBoost prediction model
+* Streamlit web application
+* Google Generative AI integration
+* Vehicle comparison and recommendation features
+
+---
+
+## 🏆 Certifications
+
+* Oracle Cloud Infrastructure Foundations Associate
+* HackerRank Java (Basic)
+* HackerRank SQL (Basic)
+* Wipro TalentNext Full Stack Development Program
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -191,50 +151,36 @@ Machine Learning Powered Vehicle Price Prediction Platform
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAhmed2707&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAhmed2707&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 Current Goals
 
-* Build advanced Spring Boot projects
-* Strengthen Data Structures & Algorithms
-* Master Microservices Architecture
-* Earn AWS Cloud Certification
-* Secure a Software Development Role
-* Contribute to Open Source
+* Strengthen Java Collections Framework
+* Improve DSA problem-solving consistency
+* Build production-grade Spring Boot projects
+* Learn Microservices Architecture in depth
+* Expand Cloud & DevOps knowledge
+* Secure a Backend Developer role
 
 ---
 
-# 📫 Let's Connect
+## 📫 Contact
 
-<div align="center">
+📧 **[farhan05faizan@gmail.com](mailto:farhan05faizan@gmail.com)**
 
-### 📧 Email
+💼 **linkedin.com/in/faizan-ahmed2707**
 
-**[farhan05faizan@gmail.com](mailto:farhan05faizan@gmail.com)**
-
-### 💼 LinkedIn
-
-**linkedin.com/in/faizan-ahmed2707**
-
-### 💻 GitHub
-
-**github.com/FaizanAhmed2707**
-
-</div>
+💻 **github.com/FaizanAhmed2707**
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
 
 *"First, solve the problem. Then, write the code."*
 
