@@ -1,165 +1,241 @@
+<div align="center">
+
 # 👋 Hi, I'm Syed Faizan Ahmed
 
-### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Cloud & DevOps
+### Java Backend Developer | Spring Boot | REST APIs | PostgreSQL | Cloud Enthusiast
 
-<p align="center">
-  <a href="https://github.com/FaizanAhmed2707">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Cloud+%26+DevOps+Enthusiast" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Cloud+%26+DevOps+Enthusiast;Always+Learning+Always+Building" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/faizan-ahmed2707)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:farhan05faizan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/FaizanAhmed2707)
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 Information Technology Graduate (2025)
 
-💻 Passionate about backend engineering, distributed systems, and enterprise web applications.
+💻 Passionate Backend Developer specializing in Java, Spring Boot, REST APIs, and Database Engineering.
 
-🌱 Currently strengthening expertise in:
+🔭 Currently building production-grade backend applications using:
 
+* Java
 * Spring Boot
 * Spring Security
-* RESTful APIs
 * PostgreSQL
 * Docker
-* AWS & Cloud Deployments
+* Cloud Technologies
+
+🌱 Currently Learning
+
+* Microservices Architecture
+* Distributed Systems
+* AWS Cloud Services
+* Advanced Spring Ecosystem
 
 🎯 Career Goal
 
-To build scalable, secure, and high-performance backend systems while growing into a professional Software Engineer specializing in Java and cloud-native technologies.
+To become a high-impact Software Engineer focused on scalable backend systems, cloud-native applications, and enterprise software development.
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
+## Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 💬 ChatEngine Pro
-
-Enterprise-grade real-time communication platform built using Java 21 and Spring Boot.
-
-#### Highlights
-
-* Real-time messaging with STOMP WebSockets
-* Google OAuth2 authentication
-* WebRTC video calling
-* Cloudinary media pipeline
-* PostgreSQL persistence
-* Presence tracking engine
-
-#### Impact
-
-* 100+ concurrent WebSocket connections
-* Sub-10ms messaging latency
-* 80% reduction in database media storage
-* 60% reduction in initial query load
-
----
-
-### 🔗 LinkShrinky
-
-Full-stack URL shortening and analytics platform.
-
-#### Highlights
-
-* Spring Security + JWT Authentication
-* URL shortening engine
-* Analytics dashboard
-* Dockerized deployment
-* PostgreSQL integration
-
-#### Impact
-
-* Sub-50ms redirection latency
-* Production deployment architecture
-* Secure user-specific analytics
-
----
-
-### 🚗 Used Car Price Estimator
-
-Machine Learning powered price prediction platform.
-
-#### Highlights
-
-* XGBoost prediction model
-* Streamlit web application
-* Google Generative AI integration
-* 10,000+ records processed
-
-#### Performance
-
-* R² Score: 0.889
-
----
-
-## 🏆 Certifications
-
-✅ Oracle Cloud Infrastructure Foundations Associate
-
-✅ HackerRank Java (Basic)
-
-✅ HackerRank SQL (Basic)
-
-✅ Wipro TalentNext Java Full Stack Program
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaizanAhmed2707&show_icons=true&theme=tokyonight" />
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAhmed2707&theme=tokyonight" />
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAhmed2707&layout=compact&theme=tokyonight" />
+* Spring Boot
+* Spring Security
+* REST APIs
+* JWT Authentication
+* WebSockets
+* Maven
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,linux" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+## AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Pandas
+* NumPy
+* XGBoost
+* Streamlit
+* Google GenAI
 
 ---
 
-## 📫 Connect With Me
+# 🌟 Featured Projects
 
-📧 Email: [farhan05faizan@gmail.com](mailto:farhan05faizan@gmail.com)
+## 💬 ChatEngine Pro
 
-💼 LinkedIn: https://linkedin.com/in/faizan-ahmed2707
+Enterprise-grade Real-Time Communication Platform
 
-💻 GitHub: https://github.com/FaizanAhmed2707
+### Highlights
+
+✅ Real-time Messaging using STOMP WebSockets
+
+✅ Google OAuth2 Authentication
+
+✅ WebRTC Video Calling
+
+✅ Cloudinary Media Pipeline
+
+✅ PostgreSQL Persistence Layer
+
+✅ Presence Tracking Engine
+
+### Tech Stack
+
+`Java 21` • `Spring Boot` • `WebSockets` • `PostgreSQL` • `Azure`
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories.
+## 🔗 LinkShrinky
+
+Production-Ready URL Shortening and Analytics Platform
+
+### Highlights
+
+✅ JWT Authentication & Authorization
+
+✅ URL Shortening Engine
+
+✅ Analytics Dashboard
+
+✅ Dockerized Deployment
+
+✅ PostgreSQL Integration
+
+✅ Production Architecture
+
+### Tech Stack
+
+`Java` • `Spring Boot` • `PostgreSQL` • `Docker`
+
+---
+
+## 🚗 Used Car Price Estimator
+
+Machine Learning Powered Vehicle Price Prediction Platform
+
+### Highlights
+
+✅ XGBoost Prediction Model
+
+✅ Streamlit Web Application
+
+✅ Google Generative AI Integration
+
+✅ Data Processing Pipeline
+
+✅ Interactive User Interface
+
+### Tech Stack
+
+`Python` • `XGBoost` • `Streamlit` • `Google GenAI`
+
+---
+
+# 🏆 Certifications
+
+### ☁️ Oracle Cloud Infrastructure Foundations Associate
+
+### ☕ HackerRank Java (Basic)
+
+### 🗄️ HackerRank SQL (Basic)
+
+### 💻 Wipro TalentNext Full Stack Development Program
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizanAhmed2707&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanAhmed2707&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanAhmed2707&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+* Build advanced Spring Boot projects
+* Strengthen Data Structures & Algorithms
+* Master Microservices Architecture
+* Earn AWS Cloud Certification
+* Secure a Software Development Role
+* Contribute to Open Source
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+### 📧 Email
+
+**[farhan05faizan@gmail.com](mailto:farhan05faizan@gmail.com)**
+
+### 💼 LinkedIn
+
+**linkedin.com/in/faizan-ahmed2707**
+
+### 💻 GitHub
+
+**github.com/FaizanAhmed2707**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
